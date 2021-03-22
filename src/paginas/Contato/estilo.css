@@ -1,0 +1,30 @@
+*{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+.contato-container {
+    padding-top: 90px;
+}
+
+.lista-medicos {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 30px;
+}
+
+.lista-medicos li {
+    list-style: none;
+    max-width: 300px;
+    padding: 10px 20px;
+}
+
+.lista-medicos li img {
+    width: 150px;
+    height: 150px;
+    border-radius: 75px;
+}

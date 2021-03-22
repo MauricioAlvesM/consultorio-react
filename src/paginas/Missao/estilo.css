@@ -1,0 +1,23 @@
+*{
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.missao-container {
+    padding-top: 90px;
+}
+
+.colorido{
+    color: #0275d8;
+    margin-top: 50px;
+    margin-bottom: 150px;
+    font-size: 45px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.imgs3{
+    margin:  auto;
+    margin-bottom: 50px;
+}
+
