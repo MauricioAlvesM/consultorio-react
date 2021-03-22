@@ -16,15 +16,15 @@ The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
 ### `ScreenShots`
-####HomePage
+#### HomePage
 <img alt="CapturaTelaInicio" src="https://github.com/MauricioAlvesM/consultorio-react/blob/main/Home.png?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
-####Contact
+#### Contact
 <img alt="CapturaTelaContato" src="https://github.com/MauricioAlvesM/consultorio-react/blob/main/Contato.png?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
-####Legacy
+#### Legacy
 <img alt="CapturaTelaMissao" src="https://github.com/MauricioAlvesM/consultorio-react/blob/main/Missao.png?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
-####health insurance
+#### health insurance
 <img alt="CapturaTelaCOnvenios" src="https://github.com/MauricioAlvesM/consultorio-react/blob/main/Convenios.png?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
-####schedule
+#### schedule
 <img alt="CapturaTelaAgenda" src="https://github.com/MauricioAlvesM/consultorio-react/blob/main/Agenda.png?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
 ### `yarn test`
 
